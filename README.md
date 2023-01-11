@@ -43,7 +43,7 @@ In this project, the outliers were checked by plotting box plots for some certai
 
 
 
-         Exploration of the variables with various observations from the data
+    Exploration of the variables with various observations from the data
 From the statistical values;
 -The minimum age of the deceased is 2 while the maximum age is 92. The average age also is 35
 
